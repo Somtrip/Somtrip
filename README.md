@@ -1,13 +1,13 @@
 ### Hi there friends 👋
 
-<!--
-**Somtrip/Somtrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### 🔭 I’m currently working on personal project and opensource.
+ ### 🌱 I’m currently learning web development.
+ ### 👯 I’m looking to collaborate on opensource and projects.
+ <!--
+/Somtrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
- 🔭 I’m currently working on personal project and opensource.
- 🌱 I’m currently learning web development.
- 👯 I’m looking to collaborate on opensource and projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
