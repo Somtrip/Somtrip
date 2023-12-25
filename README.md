@@ -17,7 +17,7 @@
 
 <br>
 <div align="center">
-  <img  src="https://github.com/arvindpndit/arvindpndit/blob/main/grid-snake.svg"
+  <img  src="https://github.com/Somtrip/Somtrip/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 <br>
