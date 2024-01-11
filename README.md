@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **somnath.try@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rmAZDW5JTMk0meehq9fgvns8GPOvEf7N/view?usp=sharing](https://drive.google.com/file/d/1rmAZDW5JTMk0meehq9fgvns8GPOvEf7N/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rmAZDW5JTMk0meehq9fgvns8GPOvEf7N/view?usp=sharing](https://drive.google.com/file/d/139qRNCbgP2LUFLYJQLLW5mZMYIUxjhha/view?usp=sharing)
+- 📃 My Portfolio website [ Visit Here ](https://somtrip.github.io/myportfolio/)
 
 <br>
 <div align="center">
