@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/code_nath" target="blank"><img src="https://img.shields.io/twitter/follow/code_nath?logo=twitter&style=for-the-badge" alt="code_nath" /></a> </p>
 
-- 🔭 My recent project is [TODO List](https://github.com/Somtrip/todoList)
+- 🔭 My recent project is [Google Docs Clone](https://github.com/Somtrip/Nexus-docs)
 
 - 🌱 I’m currently learning **React and database technologies**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **somnath.try@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rmAZDW5JTMk0meehq9fgvns8GPOvEf7N/view?usp=sharing](https://drive.google.com/file/d/139qRNCbgP2LUFLYJQLLW5mZMYIUxjhha/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QZ-FryQ_FihA8wovJory7MW3K4GGyxgD/view?usp=sharing](https://drive.google.com/file/d/1QZ-FryQ_FihA8wovJory7MW3K4GGyxgD/view?usp=sharing)
 - 📃 My Portfolio website [ Visit Here ](https://somtrip.github.io/myportfolio/)
 
 <br>
