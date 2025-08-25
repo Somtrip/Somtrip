@@ -1,15 +1,16 @@
-### Hi there friends 👋
+### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Som Tripathi</h1>
-<h3 align="center">A passionate Full Stack Web developer and Java programmer from India</h3>
+<h3 align="center">Java Backend Engineer | Spring Boot Developer | Tech Explorer</h3>
 
 <p align="left"> <a href="https://twitter.com/code_nath" target="blank"><img src="https://img.shields.io/twitter/follow/code_nath?logo=twitter&style=for-the-badge" alt="code_nath" /></a> </p>
 
-- 🔭 My recent project is [Google Docs Clone](https://github.com/Somtrip/Nexus-docs)
+-  💼 Currently working as a *Backend Engineer* at *Crio.do*
+- 🔭 My recent project is [E Wallet Application](https://github.com/Somtrip/E-wallet-application/)
 
-- 🌱 I’m currently learning **React and database technologies**
+- 🌱 Skilled in **Java, Spring Boot, React, Node.js,** and **MongoDB** with hands-on experience in **Apache Kafka & microservices**
 
-- 👯 I’m looking to collaborate on **Backend opensource projects**
+- 👯 Open to collaborating on **backend systems, scalable architectures, and open source contributions**
 
 - 📫 How to reach me **somnath.try@gmail.com**
 
